@@ -1,0 +1,16 @@
+.bacground{
+  background-color: black;
+}
+body{
+      background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../../assets/img/IMG_9928.JPG);
+  background-size:cover;
+}
+.text-center{
+  color: white;
+}
+.name{
+  color: white;
+}
+.description{
+  color: white;
+}
